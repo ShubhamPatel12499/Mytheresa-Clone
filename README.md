@@ -36,7 +36,7 @@ Team Members-:
 - Ashish 
 
 HOMEPAGE-:
-Here You find the all women items
+Here You find the all women items.
 <img src="https://img.mytheresa.com/media/static/raw/cms/l/WW_HP_2022_CW50/NEW_BIG/CW50_WW_HP_DESK_BIG_2x_20221213114037.jpg?imwidth=1180&imdensity=1"/>
 
 Mens Page-:
