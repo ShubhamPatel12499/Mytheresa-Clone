@@ -199,7 +199,7 @@ const Navbar = () => {
                     </Box>
           
         </Box>
-      <Image  mt="30px"  w="22%" src='https://www.mytheresa.com/skin/frontend/mytheresa/default/images/logo.png?v=20221130T110112'/>
+      <Image mt="30px" w="22%" src='https://cdn.freelogovectors.net/wp-content/uploads/2021/12/mytheresa-logo-freelogovectors.net_.png'/>
       
 </Box>
   
